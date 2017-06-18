@@ -26,6 +26,9 @@ header{
   justify-content: space-between;
 }
 
+nav ul{
+  display: flex;}
+
 img{
   margin: 32px 24px;
 }
