@@ -80,7 +80,7 @@ header .logo span{
 .menu-full{
   display: flex;
   margin-right: 24px;
-  flexdirection: row;
+  flex-direction: row;
 }
 
 .menu-full li{
